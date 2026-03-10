@@ -2,7 +2,7 @@
 - Project name: Noise_t
 - Unity version: Unity 2022.3.62f2
 - Active game object:
-  - Name: Main Camera
-  - Tag: MainCamera
+  - Name: Generator
+  - Tag: Untagged
   - Layer: Default
 <!-- UNITY CODE ASSIST INSTRUCTIONS END -->
